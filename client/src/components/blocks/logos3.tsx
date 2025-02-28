@@ -21,7 +21,7 @@ interface Logos3Props {
 }
 
 const Logos3 = ({
-  heading = "Trusted by Leading Restaurants",
+  heading = "Trusted by Leading restaurants",
   logos = [
     {
       id: "logo-1",
