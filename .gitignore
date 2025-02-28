@@ -1,0 +1,42 @@
+# Node.js dependencies
+node_modules/
+npm-debug.log*
+yarn-debug.log*
+yarn-error.log*
+pnpm-debug.log*
+
+# TypeScript build files
+dist/
+*.tsbuildinfo
+
+# Logs & Debugging
+logs/
+*.log
+yarn.lock
+package-lock.json
+
+# Local environment files
+.env
+.env.local
+.env.development
+.env.production
+.env.test
+.DS_Store
+
+# Vite build files
+.vite/
+.vitepress/
+*.cache
+*.temp
+
+# Drizzle ORM migrations
+drizzle/migrations/
+
+# IDE and Editor-specific files
+.vscode/
+.idea/
+*.swp
+
+# macOS system files
+Thumbs.db
+.DS_Store
